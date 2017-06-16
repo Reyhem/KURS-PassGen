@@ -1,0 +1,1 @@
+https://travis-ci.org/Reyhem/KURS-PassGen.svg?branch=master
