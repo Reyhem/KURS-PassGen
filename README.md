@@ -1,1 +1,0 @@
-https://travis-ci.org/Cupofjuiceh/passGenerator.svg?branch=master
