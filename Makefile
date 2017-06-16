@@ -1,4 +1,5 @@
 CFLAGS= -I./tests -I./source
+VPATH = SRC INCLUDE 
 
 main: main.o generator.o mtest.o test.o 
 	mkdir bin
