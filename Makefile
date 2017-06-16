@@ -6,6 +6,7 @@ main: main.o generator.o mtest.o test.o
 	gcc ${CFLAGS} -o bin/test obj/mtest.o obj/test.o  obj/generator.o -lm
 
 main.o: source/main.c
+	mkdir obj
 	gcc -c ${CFLAGS} source/main.c -o obj/main.o -lm
 
 mtest.o: test/main.c 
