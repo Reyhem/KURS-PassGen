@@ -1,2 +1,1 @@
-# KURS-PassGen
-TRPO:KURSWORK
+https://travis-ci.org/Cupofjuiceh/passGenerator.svg?branch=master
